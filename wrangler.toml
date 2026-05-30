@@ -10,4 +10,4 @@ binding = "ASSETS"
 [[d1_databases]]
 binding = "apitest_bind"
 database_name = "apitest"
-database_id = "2dfcaa0c-1045-4b34-a6ea-a8da9fae6b58"
+database_id = "a6f6157d-9a15-41ee-8c04-68d8dc7d0b9c"
